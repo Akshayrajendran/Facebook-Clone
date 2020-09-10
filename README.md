@@ -1,3 +1,11 @@
+This project was built by watch Clever programmer youtube channel.
+
+Deployment -https://fb-clone-51ddd.web.app/
+
+Drop Email to akshayrajendran5595@gmail.com for support.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
