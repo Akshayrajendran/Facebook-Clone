@@ -1,4 +1,4 @@
-This project was built by watch Clever programmer youtube channel.
+This project was built by watching Clever programmer youtube channel.
 
 Deployment -https://fb-clone-51ddd.web.app/
 
